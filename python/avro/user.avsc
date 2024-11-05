@@ -1,0 +1,15 @@
+{
+    "name": "User",
+    "namespace": "com.demo.model",
+    "type": "record",
+    "fields": [
+        {
+            "name": "name",
+            "type": "string"
+        },
+        {
+            "name": "lastName",
+            "type": "string"
+        }
+    ]
+}
